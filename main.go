@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 )
+// funcAdd
 
 func Add(a, b int) int {
 	return a + b
